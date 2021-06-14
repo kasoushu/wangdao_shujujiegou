@@ -1,0 +1,9 @@
+*
+!*/
+!.gitignore
+!*.cpp
+!*.rs
+!*.go
+!*.java
+!*.py
+!README.md
